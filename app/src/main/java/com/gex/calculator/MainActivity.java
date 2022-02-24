@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
     Button Button0;
     Button Back_button;
     Button las;
+    //test
     EditText edit_text,Equals;
     RelativeLayout relativeLayout;
     SwitchButton SSreplacement;
